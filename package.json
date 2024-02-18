@@ -4,7 +4,7 @@
   "main": "index.js",
   "repository": "git@github.com:JianDaRui/Daily_LeetCode.git",
   "author": "jiandarui <jiandadarui@gmail.com>",
-  "license": "MIT",
+  "license": "Apache License",
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
